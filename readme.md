@@ -10,3 +10,7 @@ Creación de un header para una landing page que está compuesto por un navegado
 
 Se ponen en práctica las buenas prácticas utilizando html semántico y la maquetación mediante css. No se incluye responsive.
 
+### Vista previa
+
+![Estructura de un Boilerplate](/img/Header-business-agency.png)
+
